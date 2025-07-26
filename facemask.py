@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Modified: Face mask detection on a local image
-Original author: Karan
-"""
 
 import numpy as np
 from keras.models import load_model
